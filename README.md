@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arefin-aareef
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning FrontEnd Development.
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MERN Stack!
 - 💞️ I’m looking to collaborate on any ind of project
 - 📫 Email me: arefin.aareef@gmail.com
 
