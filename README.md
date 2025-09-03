@@ -1,6 +1,8 @@
-# Hi, I'm Kazi Samsul Arefin 👋  
+# Hi, I'm Kazi Samsul Arefin
 
-**Full Stack Developer** | MERN | Next.js | TypeScript | OpenAI | React Native | SaaS | MVP
+**Full Stack Software Engineer from Bangladesh** 
+
+**MERN | Next.js | TypeScript | OpenAI | React Native | SaaS | MVP**
 
 I’m passionate about building scalable web applications and SaaS platforms with clean architecture. I enjoy problem-solving, collaborating with teams, and contributing to open-source.  
 
@@ -24,7 +26,6 @@ I’m passionate about building scalable web applications and SaaS platforms wit
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arefin-aareef&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arefin-aareef&theme=default&hide_border=true" height="150" />
 </p>
 
 <p align="center">
